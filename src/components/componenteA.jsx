@@ -17,7 +17,7 @@ const ComponenteA = () => {
                 email: { contacto.email }
             </h4>
             <h5>
-            <ComponenteB></ComponenteB>
+            <ComponenteB estado={true}></ComponenteB>
             </h5> 
         </div>
     );
